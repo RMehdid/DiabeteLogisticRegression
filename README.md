@@ -16,7 +16,7 @@ The dataset used for this project is sourced from [diabetes.csv](link_to_dataset
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/diabetes-binary-classification.git
+   git clone https://github.com/Rehdid/DiabeteLogisticRegression.git
    ```
 
 2. Install dependencies:
